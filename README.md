@@ -20,6 +20,7 @@ How to set up  AppleWin emulator on Mac
 
 # Download file with name prince of persia.dsk
 
-# On the right side AppleWin emulator tap disk 1: 
+# On the right side AppleWin emulator tap disk 1, choose file .dsk, tap open button: 
 
+<img width="1171" height="806" alt="Screenshot 2025-12-08 at 00 25 36" src="https://github.com/user-attachments/assets/9a54e2da-bd59-485f-a152-5fc26a6800ae" />
 
