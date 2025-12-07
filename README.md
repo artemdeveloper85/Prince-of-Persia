@@ -16,6 +16,7 @@ How to set up  AppleWin emulator on Mac
 
 # Everything is correct you will see something like this:
 
+<img width="1172" height="800" alt="Screenshot 2025-12-07 at 23 40 59" src="https://github.com/user-attachments/assets/5239cf85-e96f-4c83-8e69-a1af6dcd61ab" />
 
 # Download this file with game 
 
