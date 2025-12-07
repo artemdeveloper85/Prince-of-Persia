@@ -28,4 +28,4 @@ How to set up  AppleWin emulator on Mac
 <img width="1179" height="805" alt="Screenshot 2025-12-08 at 00 31 49" src="https://github.com/user-attachments/assets/5439f07f-78bb-406f-832e-ac6fb3df0173" />
 
 # The game will start:
-<img width="1128" height="800" alt="Screenshot 2025-12-07 at 22 30 43" src="https://github.com/user-attachments/assets/5285f257-ef90-486a-81d2-d010b0e483cf" />
+<img width="1179" height="805" alt="Screenshot 2025-12-08 at 00 37 31" src="https://github.com/user-attachments/assets/da17b19c-124e-4ea4-90c9-6729969c3b5a" />
