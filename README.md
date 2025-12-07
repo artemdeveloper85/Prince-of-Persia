@@ -29,3 +29,5 @@ How to set up  AppleWin emulator on Mac
 
 # The game will start:
 <img width="1179" height="805" alt="Screenshot 2025-12-08 at 00 37 31" src="https://github.com/user-attachments/assets/da17b19c-124e-4ea4-90c9-6729969c3b5a" />
+
+# Use keys: I, J, K, L, Command and their combination for moving. If they don't work try Control + K
