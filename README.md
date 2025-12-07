@@ -23,3 +23,9 @@ How to set up  AppleWin emulator on Mac
 # On the right side AppleWin emulator tap disk 1, choose file .dsk, tap open button: 
 
 <img width="1171" height="806" alt="Screenshot 2025-12-08 at 00 25 36" src="https://github.com/user-attachments/assets/9a54e2da-bd59-485f-a152-5fc26a6800ae" />
+
+# Tap on rainbow Apple icon:
+<img width="1179" height="805" alt="Screenshot 2025-12-08 at 00 31 49" src="https://github.com/user-attachments/assets/5439f07f-78bb-406f-832e-ac6fb3df0173" />
+
+# The game will start:
+<img width="1128" height="800" alt="Screenshot 2025-12-07 at 22 30 43" src="https://github.com/user-attachments/assets/5285f257-ef90-486a-81d2-d010b0e483cf" />
